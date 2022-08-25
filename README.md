@@ -24,6 +24,7 @@ Payable for functions: Allows them to receive Ether together with a call.
   // Function to deposit Ether into this contract.
   // Call this function along with some Ether.
   // The balance of this contract will be automatically updated.
+  
   function deposit() public payable {
       emit Deposit(msg.sender, msg.value, address(this).balance);
   }
@@ -36,4 +37,24 @@ function transferTo(address payable _to, uint _amount) public onlyOwner {
     _to.transfer(_amount); // Note: _amount get from balance of this contract's address, NOT from owner (***)
     emit Transfer(_to, _amount, address(this).balance);
   }
+```
+
+Or
+
+```sh
+// Function to transfer Ether from this contract to address from input
+
+  function transfer(address payable _to, uint256 _amount) public {
+    (bool success, ) = _to.call{value: _amount}("");
+    require(success, "Failed to send Ether");
+  }
+```
+
+- notPayable() function
+
+```sh
+  // Call this function along with some Ether.
+  // The function will throw an error since this function is not payable.
+  
+  function notPayable() public {}
 ```
