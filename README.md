@@ -3,3 +3,5 @@
 - State variables
 
 - Payable
+
+- Gas and gas price
