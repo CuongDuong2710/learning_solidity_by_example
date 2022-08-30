@@ -27,3 +27,9 @@ Examples
 - With modifier `noReentrancy`
 
 ![Function modifier!](./images/function_modifer_5.png "Function modifier")
+
+Test
+
+![Function modifier!](./images/function_modifer_6.png "Function modifier")
+
+![Function modifier!](./images/function_modifer_7.png "Function modifier")
