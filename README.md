@@ -11,3 +11,12 @@
 - [Function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/function)
 
 - [View and Pure function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/view_and_pure_functions)
+
+- [Constructor](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/constructor)
+
+- [Function modifier](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/function_modifier)
+
+- [Inheritance](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/inheritance)
+
+- [Visibility](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/visibility)
+
