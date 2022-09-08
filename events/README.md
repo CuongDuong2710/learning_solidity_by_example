@@ -9,8 +9,8 @@
 
 > Test One
 
-[Events](./images/event.png "Events")
+![Events!](./images/event.png "Events")
 
 > Test Two
 
-[Events](./images/event_2.png "Events")
+![Events!](./images/event_2.png "Events")
