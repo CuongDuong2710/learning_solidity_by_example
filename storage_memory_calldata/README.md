@@ -1,4 +1,4 @@
-## [State variables](https://solidity-by-example.org/data-locations/)
+## [Data locations](https://solidity-by-example.org/data-locations/)
 
 Variables are declared as either `storage`, `memory` or `calldata` to explicitly specify the location of the data.
 
