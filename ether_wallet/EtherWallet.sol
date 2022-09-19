@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
+// In Remix, deploy contract and then use 'Transact' button in 'Low level interactions' to deposit ether into deployed contract 
+// (remember input amount in 'Value' box)
 contract EtherWallet {
     address payable public owner;
 
