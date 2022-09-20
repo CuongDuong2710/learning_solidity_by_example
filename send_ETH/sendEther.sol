@@ -23,9 +23,25 @@ contract SendEther {
 }
 
 contract ReceiveEther {
-    event Log(uint amount, uint gas);
+    /*
+    Which function is called, fallback() or receive()?
+
+           send Ether
+               |
+         msg.data is empty?
+              / \
+            yes  no
+            /     \
+receive() exists?  fallback()
+         /   \
+        yes   no
+        /      \
+    receive()   fallback()
+    */
+
+    event Log(uint256 amount, uint256 gas);
 
     receive() external payable {
-      emit Log(msg.value, gasleft());
+        emit Log(msg.value, gasleft());
     }
 }
