@@ -22,7 +22,11 @@
 
 - [Payable](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/payable)
 
+- [Send ETH](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/send_ETH)
+
 - [State variables](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/state_variable)
+
+- [Storage Memory Calldata](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/storage_memory_calldata)
 
 - [View and Pure function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/view_and_pure_functions)
 
