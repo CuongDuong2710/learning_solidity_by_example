@@ -6,8 +6,6 @@
 
 - [Ether and Wei](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/ether_and_wei)
 
-- [Ether wallet](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/ether_wallet)
-
 - [Events](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/events)
 
 - [Fallback](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/fallback)
