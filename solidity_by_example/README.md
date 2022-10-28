@@ -8,13 +8,13 @@
 
 - [Ether wallet](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/ether_wallet)
 
-- [Events](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/events)
+- [Events](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/events)
 
-- [Fallback](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/fallback)
+- [Fallback](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/fallback)
 
-- [Function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/function)
+- [Function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/function)
 
-- [Function modifier](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/function_modifier)
+- [Function modifier](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/function_modifier)
 
 - [Gas and gas price](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/gas_and_gas_price)
 
