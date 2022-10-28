@@ -16,19 +16,19 @@
 
 - [Function modifier](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/function_modifier)
 
-- [Gas and gas price](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/gas_and_gas_price)
+- [Gas and gas price](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/gas_and_gas_price)
 
-- [Inheritance](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/inheritance)
+- [Inheritance](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/inheritance)
 
-- [Payable](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/payable)
+- [Payable](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/payable)
 
-- [Send ETH](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/send_ETH)
+- [Send ETH](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/send_ETH)
 
-- [State variables](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/state_variable)
+- [State variables](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/state_variable)
 
-- [Storage Memory Calldata](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/storage_memory_calldata)
+- [Storage Memory Calldata](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/storage_memory_calldata)
 
-- [View and Pure function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/view_and_pure_functions)
+- [View and Pure function](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/view_and_pure_functions)
 
-- [Visibility](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/visibility)
+- [Visibility](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/visibility)
 
