@@ -1,12 +1,12 @@
 # learning_solidity_by_example
 
-- [Call](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/call)
+- [Call](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/call)
 
-- [Constructor](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/constructor)
+- [Constructor](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/constructor)
 
-- [Ether and Wei](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/ether_and_wei)
+- [Ether and Wei](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/ether_and_wei)
 
-- [Ether wallet](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/ether_wallet)
+- [Ether wallet](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/solidity_by_example/ether_wallet)
 
 - [Events](https://github.com/CuongDuong2710/learning_solidity_by_example/tree/master/events)
 
